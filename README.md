@@ -1,1 +1,1 @@
-# 331-lab-activity
+# 331-lab-activity: advanced git
